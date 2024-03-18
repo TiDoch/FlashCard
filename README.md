@@ -15,4 +15,4 @@
 - [x] Further customize and style the card
 - [x] Add a button that will toggle hiding and showing the answer choices
 
-<img src="https://github.com/TiDoch/FlashCard/blob/main/Gif.gif width="200" height="400" /> 
+<img src="https://github.com/TiDoch/FlashCard/blob/main/Gif.gif" width="200" height="400" /> 
